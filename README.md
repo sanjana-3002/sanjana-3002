@@ -1,10 +1,9 @@
 # Hi, I’m Sanjana 👋
 
-**Data Science @ IIT Chicago** · I turn messy data into clear, decision-ready stories.
+**Data Science @ Illinois Tech Chicago** · I turn messy data into clear, decision-ready stories.
 
 - 🧠 Interests: forecasting, churn & retention, explainable ML, ML-in-prod (lightweight).
 - 🎯 Goal: build real, end-to-end systems that ship value.
-- 📬 Reach me: [LinkedIn](🔁https://www.linkedin.com/in/sanjana-waghray-63905b1b8/) · [Portfolio](🔁PORTFOLIO_URL) · [Email](mailto:🔁swaghray1@hawk.illinoistech.edu)
 
 ---
 
@@ -37,7 +36,6 @@
 
 ## Open to
 Summer 2026 internships / new-grad roles in **Data Science, ML, or Analytics Engineering**.  
-If my work fits your team, let’s talk → [Message me on LinkedIn](🔁https://www.linkedin.com/in/sanjana-waghray-63905b1b8/).
 
 ---
 
