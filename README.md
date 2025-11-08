@@ -1,5 +1,5 @@
 
-Sanjana Waghray — MS in Data Science with foundation in applied statistics & analytics.
+## Sanjana Waghray — Bridging Data Science, Finance & AI with Statistical Depth
 
 ## About
 Where data meets design, logic meets empathy, and AI learns to explain itself. I craft intelligent systems that transform raw, unstructured data into clear, actionable insight — from real-time churn prediction to generative finance engines that reason and adapt.
@@ -14,24 +14,25 @@ At the intersection of data science, finance, and AI engineering, I build system
 
 ## Featured Projects
 
-Project	What It Does
-1. Real-Time Customer Churn Engine	Kafka-based streaming pipeline → Snowflake warehouse → XGBoost + SHAP for model explainability → Airflow DAGs for automation and alerts. Deployed to monitor 1.1M+ loyalty members.
-2. Financial Forecasting (ARIMA/SARIMA)	Built models for BSE-30 stock price predictions and Divvy bike demand forecasting. Used Box-Cox transforms, differencing, and full diagnostics for robust trend analysis.
-3. Expense Tracker + Optimizer (Streamlit)	SQL-powered personal finance dashboard that tracks spending, goals, and suggests budget optimizations in real time.
-4. Brain Tumor Detection (CNN)	Trained and evaluated ResNet18 on MRI data; achieved 92% accuracy with visualization dashboard for interpretability.
-5. TAVI: Multimodal AI Assistant	Built an assistive agent using BLIP + OCR + LLM for visually impaired users — achieved 92% precision and <200 ms response time.
+	1. Brain Tumor Detection (CNN)	Trained and evaluated ResNet18 on MRI data; achieved 92% accuracy with visualization dashboard for interpretability.
+	2. TAVI: Multimodal AI Assistant	Built an assistive agent using BLIP + OCR + LLM for visually impaired users — achieved 92% precision and <200 ms response time.
+	3. Financial Forecasting (ARIMA/SARIMA)	 Developed forecasting models for BSE-30 stock prices, integrating a crossover trading strategy to identify optimal buy–sell patterns. Applied Box-Cox transformations, seasonal differencing, and comprehensive diagnostics to ensure robust trend and volatility analysis.
+	4. Expense Tracker + Optimizer (Streamlit)	SQL-powered personal finance dashboard that tracks spending, goals, and suggests budget optimizations in real time.
+	5. Real-Time Customer Churn Engine	Kafka-based streaming pipeline → Snowflake warehouse → XGBoost + SHAP for model explainability → Airflow DAGs for automation and alerts. Deployed to monitor 1.1M+ loyalty members.
+	
 
 ## Tech Stack
 
-Languages → Python, SQL, R
-Libraries → scikit-learn, XGBoost, PyTorch, LangChain, SHAP
-Data Engineering → Snowflake, Kafka, Airflow, Spark (basics)
-Analytics & Visualization → Power BI, Streamlit, Plotly, Tableau
-Time Series & Finance → ARIMA/SARIMA, Prophet, Monte Carlo, Risk modeling
-Deployment → GitHub Actions, REST APIs, containerized ML (lightweight)
+	- Languages → Python, SQL, R
+	- Libraries → scikit-learn, XGBoost, PyTorch, LangChain, SHAP
+	- Data Engineering → Snowflake, Kafka, Airflow, Spark (basics)
+	- Analytics & Visualization → Power BI, Streamlit, Plotly, Tableau, Quantitative Modeling
+	- Time Series & Finance → ARIMA/SARIMA, Prophet, Monte Carlo, Risk modeling
+	- Deployment → GitHub Actions, REST APIs, containerized ML (lightweight)
 
 
 ## 🏆 Highlights
+
 	•	🧩 Built an explainable churn pipeline used to guide real marketing strategies.
 	•	💹 Developed stock price forecasting models with strong predictive performance.
 	•	🏅 “Data Detective” award @ Camping World for analytics excellence.
