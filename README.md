@@ -1,41 +1,50 @@
-# Hi, I’m Sanjana 👋
 
-**Data Science @ Illinois Tech Chicago** · I turn messy data into clear, decision-ready stories.
+Sanjana Waghray — MS in Data Science with foundation in applied statistics & analytics.
 
-- 🧠 Interests: forecasting, churn & retention, explainable ML, ML-in-prod (lightweight).
-- 🎯 Goal: build real, end-to-end systems that ship value.
+## About
+Where data meets design, logic meets empathy, and AI learns to explain itself. I craft intelligent systems that transform raw, unstructured data into clear, actionable insight — from real-time churn prediction to generative finance engines that reason and adapt.
+My fascination lies in how data moves the world — through markets, behavior, and intelligence itself.
+At the intersection of data science, finance, and AI engineering, I build systems that don’t just analyze information — they act on it.
 
----
+## What I’m Passionate About
+	•	Real-time analytics and financial forecasting
+	•	Explainable AI and model transparency (SHAP, LIME)
+	•	Agentic AI systems that can analyze, plan, and automate workflows
+	•	Building end-to-end pipelines that scale from prototype to production
 
 ## Featured Projects
-| Project | Brief |
-|---|---|
-| **Real-Time Customer Churn** | Streaming (Kafka) → warehouse (Snowflake) → XGBoost + SHAP → Airflow DAGs for scoring and alerts.|
-| **Divvy Demand Forecasting** | Daily rides; Box-Cox, seasonal differencing, ARIMA/SARIMA; diagnostics + forecast plots.|
-| **Expense Tracker + Optimizer (Streamlit)** | SQL-backed budgets, real-time analytics, goal tracking; neat UI.|
-| **Brain Tumor MRI (CNN)** | ResNet training loop, augmentation, evaluation dashboard.|
 
----
+Project	What It Does
+1. Real-Time Customer Churn Engine	Kafka-based streaming pipeline → Snowflake warehouse → XGBoost + SHAP for model explainability → Airflow DAGs for automation and alerts. Deployed to monitor 1.1M+ loyalty members.
+2. Financial Forecasting (ARIMA/SARIMA)	Built models for BSE-30 stock price predictions and Divvy bike demand forecasting. Used Box-Cox transforms, differencing, and full diagnostics for robust trend analysis.
+3. Expense Tracker + Optimizer (Streamlit)	SQL-powered personal finance dashboard that tracks spending, goals, and suggests budget optimizations in real time.
+4. Brain Tumor Detection (CNN)	Trained and evaluated ResNet18 on MRI data; achieved 92% accuracy with visualization dashboard for interpretability.
+5. TAVI: Multimodal AI Assistant	Built an assistive agent using BLIP + OCR + LLM for visually impaired users — achieved 92% precision and <200 ms response time.
 
-## Skills
-**Data/ML:** Python, SQL, scikit-learn, XGBoost, PyTorch, SHAP  
-**Time Series:** SARIMA, ETS, diagnostics  
-**Data Eng:** Snowflake, Kafka, Airflow, Spark (basics)  
-**Analytics:** Cohorts/RFM, segmentation, dashboards (Power BI, Streamlit)  
-**Shipping:** testing, monitoring basics, clear readmes & docs
+## Tech Stack
 
----
+Languages → Python, SQL, R
+Libraries → scikit-learn, XGBoost, PyTorch, LangChain, SHAP
+Data Engineering → Snowflake, Kafka, Airflow, Spark (basics)
+Analytics & Visualization → Power BI, Streamlit, Plotly, Tableau
+Time Series & Finance → ARIMA/SARIMA, Prophet, Monte Carlo, Risk modeling
+Deployment → GitHub Actions, REST APIs, containerized ML (lightweight)
 
 
-## Highlights
-- Built end-to-end churn pipeline with explainability (SHAP) and scheduled scoring.
-- Designed segmentation that informed retention playbooks and KPI tracking.
-- Strong communication: executive readouts, simple visuals, clear documentation.
+## 🏆 Highlights
+	•	🧩 Built an explainable churn pipeline used to guide real marketing strategies.
+	•	💹 Developed stock price forecasting models with strong predictive performance.
+	•	🏅 “Data Detective” award @ Camping World for analytics excellence.
+	•	🥉 3rd Place @ IEEE RTC 2025 Hackathon (Google sponsored) for TAVI project.
+	•	🎓 Research Assistant: Bayesian Optimization & Quasi-Monte Carlo methods (QMCPy).
 
----
 
-## Open to
-Summer 2026 internships / new-grad roles in **Data Science, ML, or Analytics Engineering**.  
+## Beyond Code 🌍
 
----
+I believe data science is most powerful when it tells human stories — of markets, people, and systems — and turns those stories into action. Whether it’s forecasting revenue, uncovering churn drivers, or designing explainable AI, I strive to make data intuitive, inclusive, and impactful.
 
+
+🔗 Let’s Connect
+
+🌐 [sanjanawaghray.com￼](https://sanjanawaghray.com)
+💼 [LinkedIn￼](https://www.linkedin.com/in/sanjana-waghray-63905b1b8/)
