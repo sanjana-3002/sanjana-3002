@@ -23,12 +23,13 @@ At the intersection of data science, finance, and AI engineering, I build system
 
 ## Tech Stack
 
-	- Languages → Python, SQL, R
-	- Libraries → scikit-learn, XGBoost, PyTorch, LangChain, SHAP
-	- Data Engineering → Snowflake, Kafka, Airflow, Spark (basics)
-	- Analytics & Visualization → Power BI, Streamlit, Plotly, Tableau, Quantitative Modeling
-	- Time Series & Finance → ARIMA/SARIMA, Prophet, Monte Carlo, Risk modeling
-	- Deployment → GitHub Actions, REST APIs, containerized ML (lightweight)
+	•	Programming → Python (primary), SQL, R
+	•	Machine Learning → scikit-learn, XGBoost, Feature Engineering, Model Evaluation, SHAP
+	•	Deep Learning → PyTorch, Neural Networks, Optimization, Probabilistic Modeling
+	•	LLMs & Agentic AI → LangChain, RAG Pipelines, Multi-Agent Systems, Prompt Engineering
+	•	Data & ML Systems → Snowflake, Kafka (streaming), Airflow (orchestration), Spark (distributed basics)
+	•	Time Series & Quantitative Modeling → ARIMA/SARIMA, Prophet, Monte Carlo Simulation, Risk Modeling
+	•	Deployment & Production ML → FastAPI (REST APIs), GitHub Actions (CI/CD), Containerized ML workflows
 
 
 ## 🏆 Highlights
