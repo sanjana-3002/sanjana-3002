@@ -1,5 +1,5 @@
 
-## Sanjana Waghray — Bridging Data Science, Finance & AI with Statistical Depth
+## Sanjana Waghray - Bridging Data Science, Finance & AI with Statistical Depth
 
 ## About
 Where data meets design, logic meets empathy, and AI learns to explain itself. I craft intelligent systems that transform raw, unstructured data into clear, actionable insight — from real-time churn prediction to generative finance engines that reason and adapt.
