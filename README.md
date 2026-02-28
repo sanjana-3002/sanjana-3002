@@ -12,15 +12,6 @@ At the intersection of data science, finance, and AI engineering, I build system
 	•	Agentic AI systems that can analyze, plan, and automate workflows
 	•	Building end-to-end pipelines that scale from prototype to production
 
-## Featured Projects
-
-	1. Brain Tumor Detection (CNN)	Trained and evaluated ResNet18 on MRI data; achieved 92% accuracy with visualization dashboard for interpretability.
-	2. TAVI: Multimodal AI Assistant	Built an assistive agent using BLIP + OCR + LLM for visually impaired users — achieved 92% precision and <200 ms response time.
-	3. Financial Forecasting (ARIMA/SARIMA)	 Developed forecasting models for BSE-30 stock prices, integrating a crossover trading strategy to identify optimal buy–sell patterns. Applied Box-Cox transformations, seasonal differencing, and comprehensive diagnostics to ensure robust trend and volatility analysis.
-	4. Expense Tracker + Optimizer (Streamlit)	SQL-powered personal finance dashboard that tracks spending, goals, and suggests budget optimizations in real time.
-	5. Real-Time Customer Churn Engine	Kafka-based streaming pipeline → Snowflake warehouse → XGBoost + SHAP for model explainability → Airflow DAGs for automation and alerts. Deployed to monitor 1.1M+ loyalty members.
-	
-
 ## Tech Stack
 
 	•	Programming → Python (primary), SQL, R
