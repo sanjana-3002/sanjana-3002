@@ -25,10 +25,11 @@ At the intersection of data science, finance, and AI engineering, I build system
 
 ## 🏆 Highlights
 
-	•	🧩 Built an explainable churn pipeline used to guide real marketing strategies.
-	•	💹 Developed stock price forecasting models with strong predictive performance.
-	•	🏅 “Data Detective” award @ Camping World for analytics excellence.
-	•	🥉 3rd Place @ IEEE RTC 2025 conference and Hack for Accessibility Hackathon (Google sponsored) for TAVI project.
+	•	🥉 3rd Place – IEEE RTC 2025 & Google Hackathon (TAVI: multimodal AI for accessibility)
+	•	🏆 “Data Detective” Award @ Camping World (impact across 1M+ customer data)
+	•	🚀 Shipped AI products under real constraints (idea → live demo in hours)
+	•	🎯 Top hackathon performer with multiple end-to-end AI builds
+	•	💡 Built AI systems with real-world impact (healthcare, finance, accessibility)
 	•	🎓 Research Assistant: Bayesian Optimization & Quasi-Monte Carlo methods (QMCPy).
 
 
