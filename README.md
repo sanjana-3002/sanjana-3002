@@ -1,44 +1,35 @@
+# Statistician by training. AI engineer by obsession. Builder by choice.
 
-## Sanjana Waghray - Bridging Data Science, Finance & AI with Statistical Depth
+I build AI systems that go from idea to production — fast.
 
-## About
-Where data meets design, logic meets empathy, and AI learns to explain itself. I craft intelligent systems that transform raw, unstructured data into clear, actionable insight — from real-time churn prediction to generative finance engines that reason and adapt.
-My fascination lies in how data moves the world — through markets, behavior, and intelligence itself.
-At the intersection of data science, finance, and AI engineering, I build systems that don’t just analyze information — they act on it.
+MS Data Science @ Illinois Tech (May 2026) · Data Scientist @ Labelmaster  
+Research co-author on Bayesian Optimization · 3x Hackathon Winner · Open to full-time roles
 
-## What I’m Passionate About
-	•	Real-time analytics and financial forecasting
-	•	Explainable AI and model transparency (SHAP, LIME)
-	•	Agentic AI systems that can analyze, plan, and automate workflows
-	•	Building end-to-end pipelines that scale from prototype to production
+## What I work with
 
-## Tech Stack
+**AI & LLMs** → LangChain · RAG Pipelines · Agentic AI · Prompt Engineering · Multi-Agent Systems  
+**ML & Modeling** → XGBoost · PyTorch · SHAP · Causal Inference · Survival Analysis · Statistical Modeling  
+**Data & Systems** → Python · SQL · FastAPI · Snowflake · Kafka · Airflow · GitHub Actions  
+**Research** → Bayesian Optimization · Quasi-Monte Carlo · QMCPy · Monte Carlo Simulation
 
-	•	Programming → Python (primary), SQL, R
-	•	Machine Learning → scikit-learn, XGBoost, Feature Engineering, Model Evaluation, SHAP
-	•	Deep Learning → PyTorch, Neural Networks, Optimization, Probabilistic Modeling
-	•	LLMs & Agentic AI → LangChain, RAG Pipelines, Multi-Agent Systems, Prompt Engineering
-	•	Data & ML Systems → Snowflake, Kafka (streaming), Airflow (orchestration), Spark (distributed basics)
-	•	Time Series & Quantitative Modeling → ARIMA/SARIMA, Prophet, Monte Carlo Simulation, Risk Modeling
-	•	Deployment & Production ML → FastAPI (REST APIs), GitHub Actions (CI/CD), Containerized ML workflows
+## highlights
 
-
-## 🏆 Highlights
-
-	•	3rd Place – IEEE RTC 2025 & Google Hackathon (TAVI: multimodal AI for accessibility)
-	•	“Data Detective” Award @ Camping World (impact across 1M+ customer data)
-	•	Shipped AI products under real constraints (idea → live demo in hours)
-	•	Top hackathon performer with multiple end-to-end AI builds
-	•	Built AI systems with real-world impact (healthcare, finance, accessibility)
-	•	Research Assistant: Bayesian Optimization & Quasi-Monte Carlo methods (QMCPy).
+| | |
+|---|---|
+| 🏆 | Techstars Chicago Startup Weekend — **3rd Place** (AuthFlow: AI prior auth tool, RAG + FastAPI) |
+| 🏆 | IEEE RTC 2025 — **3rd Place** (TAVI: real-time multimodal AI agent, 92% precision, sub-200ms latency) |
+| 🥇 | **"Data Detective" Award** — top intern recognition @ Camping World |
+| 🌍 | **Top 20 globally** — LandingAI × AWS Financial AI Hackathon (1,000+ registrants) |
+| 📄 | **Research co-author** — Bayesian Optimization with low-discrepancy sampling (Arxiv preprint) |
 
 
-## Beyond Code 🌍
+## currently
 
-I believe data science is most powerful when it tells human stories — of markets, people, and systems — and turns those stories into action. Whether it’s forecasting revenue, uncovering churn drivers, or designing explainable AI, I strive to make data intuitive, inclusive, and impactful.
+- 🔬 Co-authoring research on Bayesian Optimization (preprint on Arxiv)
+- 💼 Data Scientist @ Labelmaster — customer retention & propensity modeling
+- 🎓 Finishing MS Data Science @ Illinois Tech — May 2026
+- 👀 Open to full-time roles in **Data Science · ML Engineering · AI Engineering**
 
+---
 
-🔗 Let’s Connect
-
-🌐 [sanjanawaghray.com￼](https://sanjanawaghray.com)
-💼 [LinkedIn￼](https://www.linkedin.com/in/sanjana-waghray-63905b1b8/)
+📎 [sanjanawaghray.com](https://sanjanawaghray.com) · [LinkedIn](https://linkedin.com/in/sanjana-waghray)
