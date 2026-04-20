@@ -25,7 +25,7 @@ Research co-author on Bayesian Optimization · 3x Hackathon Winner · Open to fu
 
 ## currently
 
-- 🔬 Co-authoring research on Bayesian Optimization (preprint on Arxiv)
+- 🔬 Always have a side project running — currently: HerWay, an urban safety mapping tool for Chicago
 - 💼 Data Scientist @ Labelmaster — customer retention & propensity modeling
 - 🎓 Finishing MS Data Science @ Illinois Tech — May 2026
 - 👀 Open to full-time roles in **Data Science · ML Engineering · AI Engineering**
