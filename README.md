@@ -3,7 +3,7 @@
 I build AI systems that go from idea to production — fast.
 
 MS Data Science @ Illinois Tech (May 2026) · Data Scientist @ Labelmaster  
-Research co-author on Bayesian Optimization · 2x Hackathon Winner · Open to full-time roles
+Research co-author on Bayesian Optimization · 3x Hackathon Winner · Open to full-time roles
 
 ## What I work with
 
